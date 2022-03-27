@@ -1,5 +1,6 @@
 #!/bin/ash
 
+# ipsetbuild by Irek Pelech (c) 2022 Ascot
 #
 # Add this configuration to OpenWrt /etc/config/firewall and run script manually:
 #
