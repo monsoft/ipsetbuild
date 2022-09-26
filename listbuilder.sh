@@ -6,7 +6,7 @@
 #
 # config ipset                  
 #         option name 'tornodes' 
-#         option match 'src_net'
+#         option match 'src_ip'
 #         option storage 'hash'
 #         option enabled '1'              
 
