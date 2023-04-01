@@ -25,7 +25,7 @@
 # opkg install libustream-openssl wget
 #
 # Setup cron job to refresh list daily
-# 0 1 * * *  /opt/ipsetbuild/listbuilder.sh
+# 0 1 * * *  /opt/ipsetbuild/listbuilder_nft.sh
 #
 # and restart cron service if this is 1st entry in cron file https://openwrt.org/docs/guide-user/base-system/cron
 
